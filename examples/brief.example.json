@@ -1,0 +1,94 @@
+{
+  "client_name": "Apex Performance",
+  "audience": "Busy male professionals 30–50, $100k+ income, frustrated with weight gain and fading energy. Already tried generic gym memberships, MyFitnessPal, and at least one online coach.",
+  "awareness_level": "problem-aware",
+
+  "core_pain": [
+    "Energy crash by 3pm every day",
+    "Pants fitting tighter every quarter",
+    "Lost the body they had at 25 and can't get it back",
+    "Feel 65 at 42 — mentally sharp but physically declining"
+  ],
+
+  "transformation": [
+    "Down 20+ lbs in 12 weeks",
+    "Steady energy from 6am to 10pm",
+    "Visible muscle definition return",
+    "Confidence in photos and the mirror"
+  ],
+
+  "offer": "12-week 1-on-1 coaching — custom training, nutrition built around their schedule, accountability calls 2x per week with the head coach personally.",
+  "price_point": "$4,800 one-time or 3 × $1,800",
+
+  "unique_mechanism": "Weekly program rebuilds based on actual data from the previous week (sleep, training, stress) — not a static 12-week PDF. Plus 2 calls/week directly with the head coach, not a junior.",
+
+  "objections": [
+    "I don't have time for another program",
+    "Too expensive — what if it doesn't work?",
+    "I've tried other coaches before. They were generic.",
+    "I travel a lot for work, this won't fit my schedule",
+    "I don't want to track macros or count every calorie"
+  ],
+
+  "proof_points": [
+    {
+      "name": "Michael R.",
+      "role": "Business owner, 42",
+      "before": "218 lbs, energy crashed at 2pm daily, hadn't lifted in 8 years",
+      "after": "Down 24 lbs in 10 weeks, lifts 4x/week, energy stable, sleeps 7+ hours",
+      "quote": "Lost 24 lbs in 10 weeks, energy through the roof. Best decision I've made in years."
+    },
+    {
+      "name": "Sarah K.",
+      "role": "Marketing director, 38",
+      "before": "Inconsistent training, food guilt cycles, 3 sizes up from her 20s",
+      "after": "Down 3 dress sizes, lifts heavier than she did at 25",
+      "quote": "Down three sizes, stronger than I've been in my 30s, and I actually enjoy the process now."
+    },
+    {
+      "name": "David L.",
+      "role": "Entrepreneur, 45",
+      "before": "Bouncing between programs, plateau for 18 months",
+      "after": "Bodyweight composition transformed, broke through plateau in 6 weeks",
+      "quote": "Every other program I tried gave me generic advice. This was built around my schedule, my body, my goals."
+    }
+  ],
+
+  "aggregate_proof": {
+    "clients_served": 247,
+    "average_weight_loss_lbs": 19,
+    "average_timeframe_weeks": 14,
+    "client_retention_rate_percent": 82,
+    "trustpilot_rating": "4.9",
+    "trustpilot_reviews": 138
+  },
+
+  "guarantee": "90-day results guarantee — follow the plan, complete the calls, and if you're not down at least 12 lbs at day 90, full refund.",
+
+  "primary_lf8": "Sexual companionship + Superiority/winning",
+  "secondary_lf8": ["Care of loved ones", "Comfortable living conditions"],
+
+  "tone": "direct, confident, no-fluff, slightly contrarian. Sounds like a coach who's seen it all and isn't going to coddle you.",
+
+  "voice_examples": [
+    "Most coaches will tell you to count macros. Don't. Most of my clients have never tracked a macro and they got better results.",
+    "If you're under 40 and can't squat your bodyweight, that's the first thing we fix.",
+    "I don't take everyone. The free strategy call is also my screening — if it's not a fit on either side, I'll tell you."
+  ],
+
+  "scarcity": {
+    "type": "capacity",
+    "details": "Cap at 12 active clients per cohort. Each cohort starts on the 1st of the month."
+  },
+
+  "cta_destination": "https://apexperformance.com/apply",
+  "cta_button_text": "Book My Strategy Call",
+
+  "_notes_for_writer": [
+    "Awareness level is problem-aware — they know the pain. Use PAS for short copy, PASTOR for long-form.",
+    "Tone is direct/contrarian — avoid hype words, exclamation marks, or guru-speak.",
+    "Always anchor on the unique mechanism (weekly rebuilds + head coach access). That's the differentiator.",
+    "Use Michael R.'s story as the primary case study — he matches the audience profile most closely.",
+    "Price reveals upfront. No fake value stacks."
+  ]
+}

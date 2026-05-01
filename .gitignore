@@ -1,0 +1,17 @@
+# Local client briefs (never commit a real client's brief)
+*.json
+!examples/*.json
+
+# Generated drafts
+drafts/
+output/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
